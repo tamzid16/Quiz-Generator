@@ -1,0 +1,70 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#F7F4EC"/>
+  <path d="M0 28H1440M0 56H1440M0 84H1440M0 112H1440M0 140H1440M0 168H1440M0 196H1440M0 224H1440M0 252H1440M0 280H1440M0 308H1440M0 336H1440M0 364H1440M0 392H1440M0 420H1440M0 448H1440M0 476H1440M0 504H1440M0 532H1440M0 560H1440M0 588H1440M0 616H1440M0 644H1440M0 672H1440M0 700H1440M0 728H1440M0 756H1440M0 784H1440M0 812H1440M0 840H1440M0 868H1440" stroke="#3155D9" stroke-opacity=".035"/>
+  <path d="M28 0V900M56 0V900M84 0V900M112 0V900M140 0V900M168 0V900M196 0V900M224 0V900M252 0V900M280 0V900M308 0V900M336 0V900M364 0V900M392 0V900M420 0V900M448 0V900M476 0V900M504 0V900M532 0V900M560 0V900M588 0V900M616 0V900M644 0V900M672 0V900M700 0V900M728 0V900M756 0V900M784 0V900M812 0V900M840 0V900M868 0V900M896 0V900M924 0V900M952 0V900M980 0V900M1008 0V900M1036 0V900M1064 0V900M1092 0V900M1120 0V900M1148 0V900M1176 0V900M1204 0V900M1232 0V900M1260 0V900M1288 0V900M1316 0V900M1344 0V900M1372 0V900M1400 0V900M1428 0V900" stroke="#3155D9" stroke-opacity=".035"/>
+  <rect x="106" y="54" width="1228" height="74" rx="2" fill="#F7F4EC"/>
+  <rect x="108" y="71" width="38" height="38" rx="12" fill="#3155D9"/>
+  <path d="M118 89L127 84L136 89L127 94L118 89Z" stroke="white" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M121 91V97C124 100 130 100 133 97V91" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <text x="159" y="96" fill="#17213B" font-family="Arial" font-weight="700" font-size="20">Smart Quiz</text>
+  <text x="1090" y="93" fill="#667085" font-family="Arial" font-weight="600" font-size="13">BUILD A PRACTICE EXAM IN SECONDS</text>
+  <line x1="106" y1="128" x2="1334" y2="128" stroke="#D9D5CA"/>
+
+  <text x="108" y="196" fill="#3155D9" font-family="Arial" font-weight="700" font-size="13" letter-spacing="2">PRACTICE STUDIO</text>
+  <text x="108" y="254" fill="#17213B" font-family="Arial" font-weight="800" font-size="54">Turn your notes into an</text>
+  <text x="108" y="316" fill="#3155D9" font-family="Georgia" font-style="italic" font-size="55">exam that fights back.</text>
+  <text x="108" y="359" fill="#667085" font-family="Arial" font-size="17">Upload lecture material, choose the kind of questions you want,</text>
+  <text x="108" y="384" fill="#667085" font-family="Arial" font-size="17">and work through a timed practice set with instant explanations.</text>
+
+  <g transform="translate(106 438)">
+    <rect width="720" height="352" rx="22" fill="#FFFDF8" stroke="#D9D5CA"/>
+    <circle cx="38" cy="38" r="15" fill="#17213B"/>
+    <text x="31" y="42" fill="white" font-family="Arial" font-weight="700" font-size="10">01</text>
+    <text x="64" y="43" fill="#17213B" font-family="Arial" font-weight="700" font-size="13" letter-spacing="1">ADD YOUR MATERIAL</text>
+    <rect x="28" y="74" width="664" height="160" rx="17" fill="#FAFBFF" stroke="#ABB4CA" stroke-dasharray="6 6"/>
+    <rect x="329" y="94" width="52" height="52" rx="15" fill="#E9EDFF"/>
+    <path d="M355 129V109M347 117L355 109L363 117M345 132H365" stroke="#3155D9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="303" y="166" fill="#17213B" font-family="Arial" font-weight="700" font-size="17">Drop a PDF here</text>
+    <text x="280" y="189" fill="#667085" font-family="Arial" font-size="12">or upload TXT / Markdown lecture notes</text>
+    <line x1="28" y1="260" x2="692" y2="260" stroke="#E4E1D8"/>
+    <text x="28" y="286" fill="#17213B" font-family="Arial" font-weight="700" font-size="12">Paste lecture notes</text>
+    <rect x="28" y="301" width="664" height="28" rx="8" fill="#F4F1E9"/>
+    <rect x="28" y="339" width="510" height="7" rx="3.5" fill="#E1DDD2"/>
+  </g>
+
+  <g transform="translate(850 438)">
+    <rect width="484" height="352" rx="22" fill="#FFFDF8" stroke="#D9D5CA"/>
+    <circle cx="38" cy="38" r="15" fill="#17213B"/>
+    <text x="31" y="42" fill="white" font-family="Arial" font-weight="700" font-size="10">02</text>
+    <text x="64" y="43" fill="#17213B" font-family="Arial" font-weight="700" font-size="13" letter-spacing="1">SHAPE THE EXAM</text>
+    <text x="28" y="93" fill="#17213B" font-family="Arial" font-weight="700" font-size="12">Question type</text>
+    <rect x="28" y="108" width="200" height="46" rx="11" fill="#E9EDFF" stroke="#3155D9"/>
+    <circle cx="47" cy="131" r="7" stroke="#3155D9" stroke-width="1.5"/><circle cx="47" cy="131" r="3" fill="#3155D9"/>
+    <text x="63" y="135" fill="#203BB3" font-family="Arial" font-weight="700" font-size="12">Mixed</text>
+    <rect x="239" y="108" width="217" height="46" rx="11" fill="white" stroke="#D9D5CA"/>
+    <text x="255" y="135" fill="#667085" font-family="Arial" font-weight="700" font-size="12">Short Question</text>
+    <text x="28" y="188" fill="#17213B" font-family="Arial" font-weight="700" font-size="12">Difficulty</text>
+    <rect x="28" y="202" width="428" height="44" rx="12" fill="#EFEEE9"/>
+    <rect x="172" y="206" width="140" height="36" rx="9" fill="#FFFDF8"/>
+    <text x="76" y="229" fill="#667085" font-family="Arial" font-weight="700" font-size="12">Easy</text>
+    <text x="214" y="229" fill="#17213B" font-family="Arial" font-weight="700" font-size="12">Medium</text>
+    <text x="363" y="229" fill="#667085" font-family="Arial" font-weight="700" font-size="12">Hard</text>
+    <rect x="28" y="270" width="428" height="62" rx="13" fill="#FFF2CA" stroke="#F1D887"/>
+    <circle cx="58" cy="301" r="15" fill="#EF B12D" fill-opacity="0"/>
+    <text x="48" y="306" fill="#9F6A00" font-family="Arial" font-size="20">◷</text>
+    <text x="83" y="294" fill="#806524" font-family="Arial" font-weight="700" font-size="10">ESTIMATED EXAM TIME</text>
+    <text x="83" y="314" fill="#17213B" font-family="Arial" font-weight="700" font-size="14">12 minutes</text>
+  </g>
+
+  <rect x="1120" y="178" width="218" height="186" rx="5" fill="#17213B" transform="rotate(2 1120 178)"/>
+  <rect x="1132" y="190" width="218" height="186" rx="5" fill="#EFB12D" transform="rotate(2 1132 190)"/>
+  <rect x="1112" y="170" width="218" height="186" rx="5" fill="#17213B" transform="rotate(2 1112 170)"/>
+  <text x="1140" y="211" fill="#B8C0D4" font-family="Arial" font-size="10" letter-spacing="2">QUIZ SET</text>
+  <text x="1250" y="226" fill="white" font-family="Arial" font-weight="800" font-size="50">10</text>
+  <line x1="1140" y1="241" x2="1299" y2="246" stroke="white" stroke-opacity=".35" stroke-dasharray="5 5"/>
+  <rect x="1140" y="270" width="150" height="7" rx="3.5" fill="white" fill-opacity=".14"/>
+  <rect x="1140" y="290" width="119" height="7" rx="3.5" fill="white" fill-opacity=".14"/>
+  <rect x="1140" y="310" width="137" height="7" rx="3.5" fill="white" fill-opacity=".14"/>
+  <text x="1140" y="341" fill="white" font-family="Arial" font-weight="700" font-size="9">MIXED</text>
+  <text x="1206" y="341" fill="white" font-family="Arial" font-weight="700" font-size="9">MEDIUM</text>
+</svg>

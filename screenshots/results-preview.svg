@@ -1,0 +1,30 @@
+<svg width="1200" height="650" viewBox="0 0 1200 650" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="650" fill="#F7F4EC"/>
+  <rect x="76" y="56" width="1048" height="538" rx="24" fill="#FFFDF8" stroke="#D9D5CA"/>
+  <text x="120" y="117" fill="#3155D9" font-family="Arial" font-weight="700" font-size="12" letter-spacing="2">EXAM COMPLETE</text>
+  <text x="120" y="173" fill="#17213B" font-family="Arial" font-weight="800" font-size="46">Strong performance.</text>
+  <text x="120" y="205" fill="#667085" font-family="Arial" font-size="15">Cellular Respiration — Sample Notes</text>
+  <circle cx="985" cy="154" r="78" fill="none" stroke="#E1DFD7" stroke-width="14"/>
+  <path d="M985 76 A78 78 0 1 1 913 185" fill="none" stroke="#3155D9" stroke-width="14" stroke-linecap="round"/>
+  <text x="951" y="158" fill="#17213B" font-family="Arial" font-weight="800" font-size="32">82%</text>
+  <text x="963" y="179" fill="#667085" font-family="Arial" font-weight="700" font-size="9" letter-spacing="1">SCORE</text>
+  <g transform="translate(120 255)">
+    <rect width="210" height="82" rx="14" fill="#F8F8F5" stroke="#D9D5CA"/>
+    <text x="22" y="37" fill="#3155D9" font-family="Arial" font-size="21">✓</text><text x="58" y="38" fill="#17213B" font-family="Arial" font-weight="800" font-size="22">8</text><text x="58" y="59" fill="#667085" font-family="Arial" font-size="10">Correct answers</text>
+    <rect x="224" width="210" height="82" rx="14" fill="#F8F8F5" stroke="#D9D5CA"/>
+    <text x="246" y="37" fill="#3155D9" font-family="Arial" font-size="21">×</text><text x="282" y="38" fill="#17213B" font-family="Arial" font-weight="800" font-size="22">2</text><text x="282" y="59" fill="#667085" font-family="Arial" font-size="10">Needs review</text>
+    <rect x="448" width="210" height="82" rx="14" fill="#F8F8F5" stroke="#D9D5CA"/>
+    <text x="470" y="37" fill="#3155D9" font-family="Arial" font-size="21">◷</text><text x="506" y="38" fill="#17213B" font-family="Arial" font-weight="800" font-size="22">34s</text><text x="506" y="59" fill="#667085" font-family="Arial" font-size="10">Avg. per answer</text>
+    <rect x="672" width="210" height="82" rx="14" fill="#F8F8F5" stroke="#D9D5CA"/>
+    <text x="694" y="37" fill="#3155D9" font-family="Arial" font-size="21">◎</text><text x="730" y="38" fill="#17213B" font-family="Arial" font-weight="800" font-size="22">0</text><text x="730" y="59" fill="#667085" font-family="Arial" font-size="10">Not answered</text>
+  </g>
+  <text x="120" y="394" fill="#3155D9" font-family="Arial" font-weight="700" font-size="10" letter-spacing="1.5">ACCURACY</text>
+  <text x="120" y="426" fill="#17213B" font-family="Arial" font-weight="800" font-size="20">Performance by question type</text>
+  <text x="120" y="468" fill="#17213B" font-family="Arial" font-weight="700" font-size="11">MCQ</text><text x="555" y="468" fill="#17213B" font-family="Arial" font-weight="700" font-size="11">86%</text><rect x="120" y="479" width="470" height="8" rx="4" fill="#ECEAE2"/><rect x="120" y="479" width="404" height="8" rx="4" fill="#3155D9"/>
+  <text x="120" y="520" fill="#17213B" font-family="Arial" font-weight="700" font-size="11">True / False</text><text x="555" y="520" fill="#17213B" font-family="Arial" font-weight="700" font-size="11">75%</text><rect x="120" y="531" width="470" height="8" rx="4" fill="#ECEAE2"/><rect x="120" y="531" width="352" height="8" rx="4" fill="#3155D9"/>
+  <rect x="670" y="394" width="394" height="158" rx="18" fill="#FFF2CA" stroke="#F1D887"/>
+  <text x="696" y="426" fill="#9F6A00" font-family="Arial" font-weight="700" font-size="10" letter-spacing="1.5">NEXT MOVE</text>
+  <text x="696" y="459" fill="#17213B" font-family="Arial" font-weight="800" font-size="18">Review the two misses.</text>
+  <text x="696" y="487" fill="#6D581E" font-family="Arial" font-size="12">Then generate a harder set to check whether</text>
+  <text x="696" y="507" fill="#6D581E" font-family="Arial" font-size="12">the concepts stick under more pressure.</text>
+</svg>
